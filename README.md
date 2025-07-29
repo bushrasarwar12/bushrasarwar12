@@ -16,6 +16,7 @@ I love learning about Artificial Intelligence, Deep Learning, and building smart
 📍 **Location:** Pakistan  
 🎯 **Interests:** AI, Neural Networks, Streamlit Projects, Sentiment Analysis
 
+
 ---
 
 ## 📁 Projects
@@ -31,5 +32,20 @@ Created a Recurrent Neural Network model to predict customer churn using feature
 ### 3. 🎬 IMDB Sentiment Analysis (BiRNN)
 Trained a Bidirectional RNN model to classify IMDB movie reviews as Positive or Negative. Deployed with Streamlit.  
 🔗 [GitHub Link Coming Soon]
+
+
+---
+
+## 🧠 Skills
+
+- Python Programming
+- Neural Networks (ANN, RNN, BiRNN)
+- Streamlit for Web Apps
+- Pandas & NumPy (Data Handling)
+- Data Cleaning & Preprocessing
+- Matplotlib & Seaborn (Visualization)
+- Git & GitHub (Version Control)
+- Data Entry Tools (Excel, Google Sheets)
+
 
 
