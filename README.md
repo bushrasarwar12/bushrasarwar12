@@ -48,4 +48,13 @@ Trained a Bidirectional RNN model to classify IMDB movie reviews as Positive or 
 - Data Entry Tools (Excel, Google Sheets)
 
 
+---
+
+## 📫 Contact
+
+📧 **Email:** bushrasarwar589@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/bushrasarwar](https://www.linkedin.com/in/bushrasarwar)
+
+
+
 
