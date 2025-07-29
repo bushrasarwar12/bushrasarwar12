@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩‍💻 Bushra Sarwar
 
-<!--
-**bushrasarwar12/bushrasarwar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Generative AI Student | 🧠 Deep Learning Learner | 📊 Data Entry Specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+Assalamualaikum!  
+My name is **Bushra Sarwar** and I’m from Pakistan.  
+I am currently a student of **Generative AI** and have successfully completed a course in **Data Entry**.  
+I love learning about Artificial Intelligence, Deep Learning, and building smart systems.
+
+💡 I believe in continuous learning and hands-on experimentation.
+
+📍 **Location:** Pakistan  
+🎯 **Interests:** AI, Neural Networks, Streamlit Projects, Sentiment Analysis
+
