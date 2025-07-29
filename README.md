@@ -25,7 +25,7 @@ I love learning about Artificial Intelligence, Deep Learning, and building smart
 Built an Artificial Neural Network (ANN) model to predict final exam grade (G3) using student data like study time, past grades, absences, etc.  
 🔗 [GitHub Link Coming Soon]
 
-### 2. 📉 Churn Modeling with RNN
+### 2. 📉 Churn Modeling with ANN
 Created a Recurrent Neural Network model to predict customer churn using features like credit score, age, and balance. Frontend made in Streamlit.  
 🔗 [GitHub Link Coming Soon]
 
