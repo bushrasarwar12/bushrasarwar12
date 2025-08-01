@@ -1,6 +1,6 @@
 # 👩‍💻 Bushra Sarwar
 
-**🎓 Generative AI Student | 🧠 Deep Learning Learner | 📊 Data Entry Specialist**
+**🎓 Generative AI Enthusiast | 🧠 Deep Learning Learner | 📊 Data Entry Specialist**
 
 ---
 
