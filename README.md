@@ -1,60 +1,65 @@
-# 👩‍💻 Bushra Sarwar
-
-**🎓 Generative AI Enthusiast | 🧠 Deep Learning Learner | 📊 Data Entry Specialist**
-
----
-
-##  About Me
-
-Assalamualaikum!  
-My name is **Bushra Sarwar** and I’m from Pakistan.  
-I am currently a student of **Generative AI** and have successfully completed a course in **Data Entry**.  
-I love learning about Artificial Intelligence, Deep Learning, and building smart systems.
-
-💡 I believe in continuous learning and hands-on experimentation.
-
-📍 **Location:** Pakistan  
-🎯 **Interests:** AI, Neural Networks, Streamlit Projects, Sentiment Analysis
-
+<h1 align="center">👩‍💻 Bushra Sarwar</h1>
+<p align="center">
+  🎓 <b>Generative AI Enthusiast</b> | 🧠 <b>Deep Learning Learner</b> | 📊 <b>Data Entry Specialist</b>
+</p>
 
 ---
 
-## 📁 Projects
+### 🌟 About Me
 
-### 1. 🎓 Student Performance Prediction (ANN)
-Built an Artificial Neural Network (ANN) model to predict final exam grade (G3) using student data like study time, past grades, absences, etc.  
-🔗 [GitHub Link Coming Soon]
+Assalamualaikum! I'm **Bushra Sarwar** from Pakistan 🇵🇰  
+Currently exploring the world of **Generative AI** and **Deep Learning**, with a foundation in **Data Entry**.  
+I enjoy creating smart AI systems and deploying them using modern tools like Streamlit.  
 
-### 2. 📉 Churn Modeling with ANN
-Created a Recurrent Neural Network model to predict customer churn using features like credit score, age, and balance. Frontend made in Streamlit.  
-🔗 [GitHub Link Coming Soon]
-
-### 3. 🎬 IMDB Sentiment Analysis (BiRNN)
-Trained a Bidirectional RNN model to classify IMDB movie reviews as Positive or Negative. Deployed with Streamlit.  
-🔗 [GitHub Link Coming Soon]
-
+- 💡 Believer in lifelong learning  
+- 🌍 Location: Pakistan  
+- 🧠 Interests: AI, Neural Networks, Streamlit, Sentiment Analysis
 
 ---
 
-## 🧠 Skills
+### 🛠️ Skills & Tools
 
-- Python Programming
-- Neural Networks (ANN, RNN, BiRNN)
-- Streamlit for Web Apps
-- Pandas & NumPy (Data Handling)
-- Data Cleaning & Preprocessing
-- Matplotlib & Seaborn (Visualization)
-- Git & GitHub (Version Control)
-- Data Entry Tools (Excel, Google Sheets)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+- ✅ Artificial Neural Networks (ANN, RNN, BiRNN)  
+- ✅ Streamlit Apps  
+- ✅ Data Handling with Pandas & NumPy  
+- ✅ Data Visualization (Matplotlib, Seaborn)  
+- ✅ Version Control with GitHub  
+- ✅ Excel & Google Sheets (Data Entry)
 
 ---
 
-## 📫 Contact
+### 📁 Featured Projects
 
-📧 **Email:** bushrasarwar589@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/bushrasarwar](https://www.linkedin.com/in/bushrasarwar)
+#### 🎓 Student Performance Prediction (ANN)
+> Predicts final exam grades using student data (study time, past performance, absences).  
+> 🔗 *[GitHub Link Coming Soon]*
 
+#### 📉 Churn Modeling with ANN
+> Predicts customer churn using features like credit score, balance, age — with Streamlit frontend.  
+> 🔗 *[GitHub Link Coming Soon]*
 
+#### 🎬 IMDB Sentiment Analysis (BiRNN)
+> Classifies movie reviews as positive or negative using BiRNN model + Streamlit deployment.  
+> 🔗 *[GitHub Link Coming Soon]*
 
+---
 
+### 📫 Connect With Me
+
+<p align="center">
+  📧 <b>Email:</b> bushrasarwar589@gmail.com <br>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bushrasarwar">linkedin.com/in/bushrasarwar</a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting my GitHub! 😊</p>
