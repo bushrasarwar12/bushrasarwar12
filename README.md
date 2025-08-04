@@ -32,8 +32,13 @@ I enjoy creating smart AI systems and deploying them using modern tools like Str
 - ✅ Streamlit Apps  
 - ✅ Data Handling with Pandas & NumPy  
 - ✅ Data Visualization (Matplotlib, Seaborn)  
-- ✅ Version Control with GitHub  
+- ✅ Version Control with GitHub
+- ✅ 
 - ✅ Excel & Google Sheets (Data Entry)
+- ✅ Canvas Expert
+  
+
+
 
 ---
 
