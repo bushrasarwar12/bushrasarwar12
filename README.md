@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Bushra Sarwar</h1>
 <p align="center">
-  🎓 <b>Generative AI Enthusiast</b> | 🧠 <b>Deep Learning Learner</b> | 📊 <b>Data Entry Specialist</b>
+  🎓 <b>Generative AI Enthusiast</b> | 🧠 <b>Deep Learning Learner</b> |  🧠 <b>Python Developer</b>  | 📊 <b>Data Entry Specialist</b>
 </p>
 
 ---
